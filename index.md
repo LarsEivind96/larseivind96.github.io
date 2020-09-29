@@ -1,8 +1,7 @@
 ## Art
 
 [kunstutstilling](https://larseivind96.github.io/kunstutstilling)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Elephant Art](https://larseivind96.github.io/IT2810-webutvikling/Prosjekt1)
 
 ```markdown
 Syntax highlighted code block
