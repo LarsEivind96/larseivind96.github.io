@@ -1,6 +1,7 @@
 ## Art
 
 [kunstutstilling](https://larseivind96.github.io/kunstutstilling)
+
 [Elephant Art](https://larseivind96.github.io/IT2810-webutvikling/Prosjekt1)
 
 ```markdown
