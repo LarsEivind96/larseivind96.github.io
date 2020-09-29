@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
 title: Lars Eivind Lien
 description: 4. year student, Engineering and ICT at NTNU. 
-avatar: ./images/ArtInstallation.PNG
-og_image: /images/ArtInstallation.PNG
+avatar: /images/ArtInstallation.PNG
+og_image: https://avatars.githubusercontent.com/<username>
