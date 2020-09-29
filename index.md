@@ -2,6 +2,8 @@
 
 [kunstutstilling](https://larseivind96.github.io/kunstutstilling)
 
+![Art Installation](./images/ArtInstallation.PNG)
+
 [Elephant Art](https://larseivind96.github.io/IT2810-webutvikling/Prosjekt1)
 
 ```markdown
