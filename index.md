@@ -5,6 +5,7 @@
 [kunstutstilling](https://larseivind96.github.io/kunstutstilling)
 
 ![Art Installation](./images/Pendulum.SVG)
+<img src='./images/Pendulum.SVG'>
 
 ### Art Installation (HTML, CSS, Javascript, SVG, Canvas)
 
